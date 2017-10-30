@@ -2,9 +2,12 @@ html {
   height: 100%;
   background-color: #6ddeec;
 }
+
 body {
   width: 100%;
+
 }
+
 header {
   background-color: blue;
   color: white;
@@ -21,12 +24,16 @@ nav {
   background-color: #f3f3f7;
   float: left;
 }
+
 nav ul{
   list-style-type: none;
 }
 img{
   width: 200px;
+  margin: 20px;
+  padding-left: 50px;
 }
+
 footer{
   width: 100% auto;
   height: 50px;
@@ -42,12 +49,22 @@ section{
   display: inline-block;
   padding: 10px;
 }
+
 .kids {
-  width: 300px;
+  width: 500px;
 }
 p{
   font-size: 12;
   font-family: sans-serif;
   vertical-align: middle;
   text-align: center;
+
+}
+#lc{
+  width: 100px;
+
+}
+#rc{
+  width: 100px;
+
 }
